@@ -5,4 +5,5 @@ git init
 git add .
 git commit -m "Initial Commit"
 git status (#just to see)
+git remote add origin "we have to add shh link"
 git push origin master
