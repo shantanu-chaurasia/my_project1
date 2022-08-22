@@ -1,0 +1,8 @@
+git config --global user.name "shantanu chaurasia"
+git config --global user.email shantanu.chaurasia05@tgmail.com
+touch .gitignore
+git init
+git add .
+git commit -m "Initial Commit"
+git status (#just to see)
+git push origin master
